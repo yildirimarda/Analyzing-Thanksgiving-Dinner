@@ -1,2 +1,2 @@
 # Analyzing-Thanksgiving-Dinner
-DataQuest Guided Project - Data Analysis With Pandas: Intermediate
+Dataquest Guided Project - Data Analysis With Pandas: Intermediate
